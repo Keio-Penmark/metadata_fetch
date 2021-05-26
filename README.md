@@ -1,3 +1,6 @@
+# why fork to penmark
+公開されたmetadata_fetchはペンマークのパッケージと互換性がありません
+
 # Metadata Fetch
 A dart library for extracting metadata in web pages. Supports OpenGraph, Meta, Twitter Cards, and Structured Data (Json-LD)
 
